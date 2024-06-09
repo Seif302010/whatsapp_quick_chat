@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1717892535 source:d:\cpp\whatsapp_quick_chat\main.cpp
+	<iostream>
+	<limits>
+
