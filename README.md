@@ -7,3 +7,5 @@ Features:
 - Supports both opening the WhatsApp application and using the web version.
 
 - Easy to use with simple prompts and clear instructions.
+
+Download the latest release from [Here](https://github.com/Seif302010/whatsapp_quick_chat/releases/latest).
